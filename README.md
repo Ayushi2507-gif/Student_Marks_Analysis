@@ -15,8 +15,8 @@ The main objective of this project is to understand data analysis and visualizat
 - CSV file
 
 ## Project files
-1. AYU.csv -> Contains student names and marks
-2. MAIN.py -> Python script for data analysis and visualization
+- AYU.csv -> Contains student names and marks
+- MAIN.py -> Python script for data analysis and visualization
 
 ## Features 
 - Reads data from CSV file
