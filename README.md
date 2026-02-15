@@ -28,3 +28,5 @@ The main objective of this project is to understand data analysis and visualizat
 2. Install required libraries (pandas and matplotlib)
 3. Run the file :
     python MAIN.py 
+## Result
+<img width="2888" height="1734" alt="image" src="https://github.com/user-attachments/assets/c4db704c-c1c9-4861-8f45-1e068f975b32" />
